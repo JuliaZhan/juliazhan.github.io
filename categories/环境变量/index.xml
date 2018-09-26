@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>环境变量 on julia&#39;s blog</title>
+    <link>https://juliazhan.github.io/categories/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/</link>
+    <description>Recent content in 环境变量 on julia&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://juliazhan.github.io/categories/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如何不重启就能立即生效环境变量</title>
+      <link>https://juliazhan.github.io/posts/aboutpath/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliazhan.github.io/posts/aboutpath/</guid>
+      <description>打开cmd
+输入：set PATH=C:
+关闭cmd
+打开cmd
+输入：echo %PATH%
+OK</description>
+    </item>
+    
+  </channel>
+</rss>

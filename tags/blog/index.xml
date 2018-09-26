@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on julia&#39;s blog</title>
+    <link>https://juliazhan.github.io/tags/blog/</link>
+    <description>Recent content in Blog on julia&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://juliazhan.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hugo博客搭建笔记</title>
+      <link>https://juliazhan.github.io/posts/createhugoblog/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliazhan.github.io/posts/createhugoblog/</guid>
+      <description>hugo new site myblog
+hugo server
+hugo &amp;ndash;theme=hugo-theme-cactus-plus &amp;ndash;baseUrl=&amp;ldquo;https://juliazhan.github.io/&amp;quot;
+参考 https://tonybai.com/2015/09/23/intro-of-gohugo/</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on julia&#39;s blog</title>
+    <link>https://juliazhan.github.io/categories/git/</link>
+    <description>Recent content in Git on julia&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://juliazhan.github.io/categories/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>git常用命令</title>
+      <link>https://juliazhan.github.io/posts/gitcommands/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliazhan.github.io/posts/gitcommands/</guid>
+      <description>git clone &amp;lsquo;the url you want to copy&amp;rsquo;
+git init
+git add .
+git commit -m &amp;lsquo;comment you should write balabala&amp;rsquo;
+git remote add origin &amp;lsquo;the address of your origin&amp;rsquo;
+git push -u origin
+git pull</description>
+    </item>
+    
+  </channel>
+</rss>
