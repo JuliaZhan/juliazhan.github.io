@@ -28,13 +28,13 @@
   </url>
   
   <url>
-    <loc>https://juliazhan.github.io/categories/blog/</loc>
+    <loc>https://juliazhan.github.io/tags/blog/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://juliazhan.github.io/tags/blog/</loc>
+    <loc>https://juliazhan.github.io/categories/blog/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -46,19 +46,13 @@
   </url>
   
   <url>
-    <loc>https://juliazhan.github.io/categories/cmd/</loc>
-    <lastmod>2018-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://juliazhan.github.io/tags/cmd/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://juliazhan.github.io/categories/git/</loc>
+    <loc>https://juliazhan.github.io/categories/cmd/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -70,13 +64,19 @@
   </url>
   
   <url>
-    <loc>https://juliazhan.github.io/categories/hugo/</loc>
+    <loc>https://juliazhan.github.io/categories/git/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://juliazhan.github.io/tags/hugo/</loc>
+    <lastmod>2018-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://juliazhan.github.io/categories/hugo/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -100,13 +100,13 @@
   </url>
   
   <url>
-    <loc>https://juliazhan.github.io/categories/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/</loc>
+    <loc>https://juliazhan.github.io/tags/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://juliazhan.github.io/tags/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/</loc>
+    <loc>https://juliazhan.github.io/categories/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
